@@ -4,11 +4,11 @@ Company:CODETECH IT SOLUTIONS
 
 ID:CT3MTDS86
 
-Domain:Data analytics
+Domain:Data Analytics
 
-Duration:aug to nov 2024
+Duration:Aug to Nov 2024
 
-mentor:Santosh kumar
+Mentor:Santhosh kumar
 
 # OVER VIEW OF THE PROJECT #
 **PROJECT** **:PREDICTIVE MODELING WITH LINEAR REGRESSION**
@@ -18,9 +18,9 @@ The objective of the project is to perform predictive modeling with linear regre
 the training data, evaluate its performance using metrics like mean squared error or R-squared, and make predictions on the test set. Visualize the regression line and actual vs. predicted values to assess the model's accuracy.
 
 **Key activities**
-**split the data into training and testing sets
+**Split the data into training and testing sets
 
-evaluate metrics like mean squared error or R-squared
+Evaluate metrics like mean squared error or R-squared
 
 Visualize the regression line **
 
