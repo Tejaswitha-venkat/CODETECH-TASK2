@@ -8,7 +8,7 @@ Domain:Data analytics
 
 Duration:aug to nov 2024
 
-mentor:
+mentor:Santosh kumar
 
 # OVER VIEW OF THE PROJECT #
 **PROJECT** **:PREDICTIVE MODELING WITH LINEAR REGRESSION**
@@ -25,10 +25,8 @@ evaluate metrics like mean squared error or R-squared
 Visualize the regression line **
 
 **Technologies used**
-python
+Python:The primary programming language in data analysis
 
-pandas
+pandas: used for data manipulation and analysis
 
-matplotlib
-
-seaborn
+seabron:Used for making statistical graphs that are informative and attractive
