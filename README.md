@@ -1,8 +1,13 @@
 Name:Tejaswitha Kandukuri
+
 Company:CODETECH IT SOLUTIONS
+
 ID:CT3MTDS86
+
 Domain:Data analytics
+
 Duration:aug to nov 2024
+
 mentor:
 
 # OVER VIEW OF THE PROJECT #
@@ -14,11 +19,16 @@ the training data, evaluate its performance using metrics like mean squared erro
 
 **Key activities**
 **split the data into training and testing sets
+
 evaluate metrics like mean squared error or R-squared
+
 Visualize the regression line **
 
 **Technologies used**
 python
+
 pandas
+
 matplotlib
+
 seaborn
