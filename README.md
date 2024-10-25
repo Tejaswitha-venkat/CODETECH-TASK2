@@ -29,4 +29,4 @@ Python:The primary programming language in data analysis
 
 pandas: used for data manipulation and analysis
 
-seabron:Used for making statistical graphs that are informative and attractive
+seaborn:Used for making statistical graphs that are informative and attractive
